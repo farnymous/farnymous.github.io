@@ -1,0 +1,40 @@
+body{
+    background-color: cornflowerblue;
+}
+
+#lamp{
+    text-align: center;
+    margin: 3em auto;
+    background-color:  beige;
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 5px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+
+img{
+    width: 100px;
+    display: block;
+	margin: auto;
+}
+
+button{
+    border-radius: 7px;
+    color: white;
+}
+
+#offButton{
+    background-color: grey;
+}
+#redButton{
+    background-color: red;
+}
+
+#blueButton{
+    background-color: blue;
+}
+
+#greenButton{
+    background-color: green;
+}

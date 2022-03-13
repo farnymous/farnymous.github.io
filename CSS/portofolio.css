@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+
+.far{
+    float: left;
+}
+
+.img-content{
+    float: right;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+   	margin-top: 20px;
+}
+
+#skills{
+    text-align: center;
+	display: block;
+	margin: auto;
+    width: 93%;
+}
+
+#project{
+    text-align: center;
+	display: block;
+	margin: auto;
+    width: 93%;
+}
+
+#contact{
+	display: block;
+	margin: auto;
+    width: 93%;
+}
+
+.img-contact{
+    float: right;
+}
+
+li{
+    list-style-type: none; 
+}
+
